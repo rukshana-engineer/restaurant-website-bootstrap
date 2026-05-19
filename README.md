@@ -16,9 +16,7 @@
 
 ---
 
-##  Live Demo
-
- *Deploy using GitHub Pages and add your link here*
+##  Web link
 
 ```
 https://rukshiroshan.github.io/Restaurant-Website-using-bootsrap/
@@ -49,18 +47,6 @@ Perfect for:
 ✔ Contact form UI
 ✔ Google Maps integration
 ✔ Bootstrap modal popup
-
----
-
-##  Preview
-
-Add screenshots after uploading:
-
-```
-/screenshots/home.png
-/screenshots/menu.png
-/screenshots/contact.png
-```
 
 ---
 
@@ -117,10 +103,6 @@ start index.html
 
 Contributions are welcome!
 Feel free to fork this repo and submit a PR.
-
----
-
-
 
 ---
 
