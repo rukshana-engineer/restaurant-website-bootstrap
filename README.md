@@ -133,9 +133,10 @@ If you like this project, give it a ⭐ on GitHub!
 ## 👩‍💻 Author
 
 Rukshana Roshan
+
 Frontend Developer
 
 ---
 
-If you want, I can also create a **GitHub repo description + topics list + screenshot images** to make the repo look 100% complete 🔥
+
 
