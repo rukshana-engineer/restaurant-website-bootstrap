@@ -21,7 +21,7 @@
  *Deploy using GitHub Pages and add your link here*
 
 ```
-https://your-username.github.io/tasty-bites-cafe/
+https://rukshiroshan.github.io/Restaurant-Website-using-bootsrap/
 ```
 
 ---
@@ -120,12 +120,7 @@ Feel free to fork this repo and submit a PR.
 
 ---
 
-## 📊 GitHub Stats (Auto)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
-</p>
 
 ---
 
