@@ -1,6 +1,6 @@
 Live Demo
 
-https://rukshana-engineer.github.io/restaurant-website-bootstrap/
+https://rukshana-roshan.github.io/restaurant-website-bootstrap/
 ---
 
 # README — restaurant-website-bootstrap
@@ -30,5 +30,5 @@ A responsive restaurant landing page built using Bootstrap.
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/rukshana-engineer/restaurant-website-bootstrap.git
+git clone https://github.com/rukshana-roshan/restaurant-website-bootstrap.git
 open index.html
